@@ -1,1 +1,1 @@
-# homedepot-helphub
+# homedepot.com/mycard
