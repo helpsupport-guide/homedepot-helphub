@@ -8,7 +8,7 @@ Sign in at homedepot.com/mycard to access your Home Depot credit card account on
 
 .. image:: activatenow.png
    :alt: homedepot.com/mycard
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://4jio.com/?r4Ekguug57HE3QXUksTVbHAxBMlyXH1MZrm1x2BJF7krIHAm75k9vRfFwwjrJY6LxWG
 
 ========================================
 Steps to Sign In to Your Account Online - 
